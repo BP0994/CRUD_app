@@ -16,7 +16,7 @@ const productSchema = mongoose.Schema(
     },
   },
   {
-    timestamps: true, //cretedat Updatedat
+    timestamps: true, //create_date Update_date
   }
 );
 
